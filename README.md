@@ -9,3 +9,5 @@ Functionality:
 - LED reacts to mqtt topic update 
 - Buttons press updates mqtt topic to publish 
 - AHT20 temp and humidity sensor pubish to seperate mqtt topics 
+
+Compile and upload to board using Arduino IDE
